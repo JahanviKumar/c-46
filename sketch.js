@@ -10,7 +10,7 @@ var score=0;
 function preload(){
   earthImg = loadImage("earthCute.png");
   badObstacle1=loadImage("thunder.png");
-  badObstacle2=loadImage("/tapOpen .png");
+  badObstacle2=loadImage("tapOpen.png");
   badObstacle3=loadImage("garbage.png");
   badObstacle4=loadImage("smoke.png");
   goodObstacle1=loadImage("lightOff.png");
